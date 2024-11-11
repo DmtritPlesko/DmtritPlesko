@@ -3,10 +3,12 @@
 <h3>Java Backend developer from Astrakhan</h3>
 </div>
 
+
 <div id="main" align="center">
 <a href="https://t.me/salamalexys">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </div>
+
 
 # About me
 - 4th year student of ASTU in the field of Information security of automated systems
@@ -23,9 +25,18 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="75"/>
 </div>
 
+
 # Projects
 - ### [To Do list](https://github.com/DmtritPlesko/java-kanban) | Java
 - ### [CatsGramm](https://github.com/DmtritPlesko/Catsgram)  | Java + SQL
 - ### [Jva-filmorate](https://github.com/DmtritPlesko/java-filmorate)  | Java + Spring Boot+ SQL
 - ### [Java-shareit](https://github.com/DmtritPlesko/java-shareit)  | Java + Spring FrameWork + Hibernate + Docker
-- ### [java explore with me](https://github.com/DmtritPlesko/java-explore-with-me-plus_final)  | Java + Spring FrameWork + Hibernate + Docker + MicroServices + Postgresql 
+- ### [java explore with me](https://github.com/DmtritPlesko/java-explore-with-me-plus_final)  | Java + Spring FrameWork + Hibernate + Docker + MicroServices + Postgresql
+
+
+# My stat
+<div id="stat" align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DmtritPlesko&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DmtritPlesko&theme=github_dark" alt=""/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DmtritPlesko&theme=github_dark" alt=""/>
+</div>
