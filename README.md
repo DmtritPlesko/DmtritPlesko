@@ -31,7 +31,6 @@
 <br>
 
 # Projects
-- ### [To Do list](https://github.com/DmtritPlesko/java-kanban) | Java
 - ### [CatsGramm](https://github.com/DmtritPlesko/Catsgram)  | Java + SQL
 - ### [Jva-filmorate](https://github.com/DmtritPlesko/java-filmorate)  | Java + Spring Boot+ SQL
 - ### [Java-shareit](https://github.com/DmtritPlesko/java-shareit)  | Java + Spring FrameWork + Hibernate + Docker
