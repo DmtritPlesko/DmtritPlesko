@@ -14,7 +14,7 @@
 
 # About me
 - 4th year student of ASTU in the field of Information security of automated systems
-- I am a beginner Java developer with about a year of experience. I spent most of this time studying and practicing working with Java, based on educational projects.
+- I am a beginner Java developer with about a year of experience. I spent most of this time studying and practicing working with Java, based on pet projects.
 
 <br>
 
