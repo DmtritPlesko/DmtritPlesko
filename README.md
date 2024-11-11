@@ -1,13 +1,11 @@
 <div id="header" align="center">
-<h1>Hi there, I'm Dmitry <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1></h1>
+<h1>Hi there, I'm Dmitry <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" width="40"/></h1></h1>
 <h3>Java Backend developer from Astrakhan</h3>
 </div>
 
 <div id="main" align="center">
 <a href="https://t.me/salamalexys">
-<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-
-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-</a>
+<img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </div>
 
 # About me
@@ -29,9 +27,3 @@ badge&logo=telegram&logoColor=white" alt="Telegram"/>
 - ### [Jva-filmorate](https://github.com/DmtritPlesko/java-filmorate)  | Java + Spring Boot+ SQL
 - ### [Java-shareit](https://github.com/DmtritPlesko/java-shareit)  | Java + Spring FrameWork + Hibernate + Docker
 - ### [java explore with me](https://github.com/DmtritPlesko/java-explore-with-me-plus_final)  | Java + Spring FrameWork + Hibernate + Docker + MicroServices + Postgresql 
-
-
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?
-username=DmtritPlesko&theme=github_dark)
-
