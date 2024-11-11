@@ -3,17 +3,20 @@
 <h3>Java Backend developer from Astrakhan</h3>
 </div>
 
+<br>
 
 <div id="main" align="center">
 <a href="https://t.me/salamalexys">
 <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/></a>
 </div>
 
+<br>
 
 # About me
 - 4th year student of ASTU in the field of Information security of automated systems
 - I am a beginner Java developer with about a year of experience. I spent most of this time studying and practicing working with Java, based on educational projects.
 
+<br>
 
 ## Language and Technology
 <div> 
@@ -25,6 +28,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" width="75"/>
 </div>
 
+<br>
 
 # Projects
 - ### [To Do list](https://github.com/DmtritPlesko/java-kanban) | Java
@@ -33,6 +37,7 @@
 - ### [Java-shareit](https://github.com/DmtritPlesko/java-shareit)  | Java + Spring FrameWork + Hibernate + Docker
 - ### [java explore with me](https://github.com/DmtritPlesko/java-explore-with-me-plus_final)  | Java + Spring FrameWork + Hibernate + Docker + MicroServices + Postgresql
 
+<br>
 
 # My stat
 <div id="stat" align="center">
